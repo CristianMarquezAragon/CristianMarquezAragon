@@ -9,9 +9,9 @@
 
 A full-stack productivity application designed around calendar-based task management, automation and intelligent workflows.
 
-- 🟨 Frontend: Vue.js
-- 🐍 Backend: FastAPI
-- 🐘 Database: PostgreSQL
+- 🟨 **Frontend:** Vue.js
+- 🐍 **Backend:** FastAPI
+- 🐘 **Database:** PostgreSQL & MongoDB
 - 🤖 AI-assisted development & automation (OpenCode & all this guys :)
 - 🔐 Authentication, security & 2FA
 - 📱 PWA architecture
