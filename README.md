@@ -2,7 +2,7 @@
 
 <img width="1500" height="505" alt="192744_315610671869954_70971109_o - copia" src="https://github.com/user-attachments/assets/be13e3f4-5e46-4ff5-acea-58448d1ca01e" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/TU-USUARIO/](https://www.linkedin.com/in/cristian-m%C3%A1rquez-25938a92/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cristian_Márquez-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristian-m%C3%A1rquez-25938a92/)
 
 
 ### Aerospace Engineer → Software & AI
