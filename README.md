@@ -26,15 +26,15 @@ My background is in **Aerospace Engineering**, with professional experience in a
 Alongside engineering, I've developed a strong focus on software development and automation.
 
 ### Aerospace
-`Aerospace Engineering` `Aircraft Production` `Manufacturing Engineering`  
-`CATIA V5` `FEM` `CFD` `A320` `A321XLR` `SAP`
+`Aircraft Production`
+`CATIA V5` `FEM` `CFD` `SAP`
 
 ### Software
 `Python` `JavaScript` `HTML` `CSS` `PHP` `C++`  
 `Vue.js` `FastAPI` `PostgreSQL` `MongoDB` `Git` `GNU/Linux`
 
 ### AI & Automation
-`AI-assisted Development` `AI Agents` `Automation`  
+`AI-assisted Development` `AI Agents`
 `Prompt Engineering` `Workflow Optimization` `Developer Tools`
 
 ---
