@@ -59,20 +59,3 @@ Alongside engineering, I've developed a strong focus on software development and
 > Sometimes they need better systems.**
 
 I enjoy identifying repetitive or inefficient processes and turning them into **structured, automated and scalable workflows**.
-
-&nbsp;
-
-## 📌 Featured Project
-
-A full-stack application combining calendar management, task planning and automated workflows.
-
-**Architecture**
-
-```text
-Vue.js
-   ↓
-REST API
-   ↓
-FastAPI
-   ↓
-PostgreSQL
